@@ -1,4 +1,4 @@
-// JavaScript
+// Run Video from beginnnig, when any parent of the Video changes Display to anything but none
 window.Webflow ||= [];
 window.Webflow.push(() => {
 
